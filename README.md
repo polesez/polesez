@@ -2,7 +2,7 @@
 <h3 align="center">A Novice Programmer From Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polesez&label=Profile%20views&color=0e75b6&style=flat" alt="polesez" /> </p>
-
+<img align="right">  <img src="https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif" alt="polesez" /> 
 - 🔭 I’m currently working on **...**
 
 - 🌱 I’m currently learning **Python/AI**
