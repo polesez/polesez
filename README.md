@@ -49,7 +49,7 @@ print(me.say_hello())
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js&theme=dark" alt="Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,&theme=dark" alt="Technology Stack"/>
 </p>
 
 ### 🎯 Areas of Interest
